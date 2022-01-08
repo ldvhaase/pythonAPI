@@ -1,3 +1,6 @@
 # pythonAPI
 
-API built with FastAPI and Python
+CRUD API built with FastAPI and Python
+
+To start server:
+uvicorn main:app --reload
